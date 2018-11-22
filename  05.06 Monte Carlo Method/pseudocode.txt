@@ -1,0 +1,12 @@
+
+1. Prompt user to enter the number of trials; 
+2. check if the number of trial is at least 1000 - continue in loop till user enters a valid value
+3. Open a data file to write the trial data
+4. Select a number between 1-10 to designate the chosen animal
+5. Repeat the loop till the number of trials
+	5.1 generate random number between 1-10 and keep a count till the random number is same as chosen animal number
+	5.2 Write the count in the file
+6. Close the written file
+7. Open the file for processing
+8. Read each entry in the file and calculate the sum of all the entries to calculate the average
+9. close the file
