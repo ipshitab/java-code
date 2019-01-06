@@ -1,0 +1,70 @@
+#1
+
+public void fileSize()
+{
+    int totalLength = 0;
+    for (int i = 0, i < wordlist.length, i++)
+    {
+        totalLength += wordlist[ i ].length();
+     }
+     totalLength += wordlist.length - 1;
+     fileBytes = totalLength;
+}
+
+public void mergeWords(String[] newWords)
+      { 
+          int j = 0;
+          for (i = 0, i < newWords.length, i++)
+          {
+               wordlist.add( j, newWords[ i ]);
+               j += 2;
+           }
+           fileSize();
+      }
+
+#2
+
+public double letterAverage(String letterGrade)
+{
+    double sum = 0;
+    int matches = 0;
+    for ( int i = 0, i < studentLetters.length, i++)
+    {
+         for ( int j = 0, j < studentLetters[ i ].length, j++)
+         {
+              if (studentLetters[ i ][ j ].equals(letterGrade))
+              {
+                  sum += studentScores[ i ][ j ];
+                  matches++;
+              }
+
+          }
+
+     } 
+          if (matches == 0)
+             return -1.0;
+         double avg = sum/matches;
+         return avg;
+}
+
+#3
+
+public Circle(double rad)
+{
+    radius = rad;
+}
+
+public Circle(int diameter)
+{
+   radius = diameter/2.0;
+}
+
+public double arcLength(double degree) 
+      {
+         return (Math.PI / 180) * radius * degree;
+      }
+
+
+
+
+
