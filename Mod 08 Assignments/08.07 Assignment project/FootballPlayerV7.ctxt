@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FootballPlayerV7
+comment1.params=year\ gamePlayed\ nm
+comment1.target=FootballPlayerV7(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FootballPlayerV7\r\n
+comment2.params=debutYear
+comment2.target=int\ yearsSinceDebut(int)
+comment3.params=debutYear
+comment3.target=int\ yearsSinceDebut(java.lang.String)
+comment4.params=years
+comment4.target=double\ avgGamesPlayed(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=int\ getbYear()
+numComments=7

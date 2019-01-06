@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlanetWeight
+comment1.params=filename
+comment1.target=double[]\ readFile(java.io.File)
+comment2.params=weight
+comment2.target=double\ findMass(double)
+comment3.params=mass\ surfaceG
+comment3.target=double\ newWeight(double,\ double)
+comment4.params=name\ gravity\ weight
+comment4.target=void\ printLine(java.lang.String,\ double,\ double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

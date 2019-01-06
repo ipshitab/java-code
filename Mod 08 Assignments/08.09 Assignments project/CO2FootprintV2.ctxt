@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2
+comment0.text=\r\n\ @purpose\:\ This\ class\ calculates\ the\ amount\ of\ carbon\ dioxide\ emitted\ for\ each\ gallon\ \r\n\ of\ gas\ consumed\ by\ a\ car\r\n\ \r\n\ @author\ Ipshita\ Bhatnagar\r\n\ @version\ 12/16\r\n
+comment1.params=gallons
+comment1.target=CO2FootprintV2(double)
+comment1.text=\r\n\ Constructor\ for\ objects\r\n\ @param\ gallons\ used\r\n\ @param\ tons\ of\ CO2\r\n\ @param\ pounds\ of\ CO2\r\n
+comment2.params=
+comment2.target=void\ calcTonsCO2()
+comment2.text=\r\n\ Mutator\ method\ to\ calculate\ tons\ CO2\ (no\ parameters).\r\n
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\r\n\ Mutator\ method\ to\ convert\ tons\ to\ pounds\ (no\ parameters).\r\n
+comment4.params=
+comment4.target=double\ getGallons()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ gallons\ used\ (no\ parameters).\r\n\ @return\ the\ number\ of\ gallons\ used.\r\n
+comment5.params=
+comment5.target=double\ getTonsCO2()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ tons\ of\ CO2\ (no\ parameters).\r\n\ @return\ the\ tons\ of\ CO2.\r\n
+comment6.params=
+comment6.target=double\ getPoundsCO2()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ pounds\ of\ CO2\ (no\ parameters).\r\n\ @return\ the\ number\ of\ pounds\ of\ CO2.\r\n
+numComments=7

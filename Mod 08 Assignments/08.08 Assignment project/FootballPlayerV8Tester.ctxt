@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FootballPlayerV8Tester
+comment0.text=\r\n\ class\ FootballPlayerV8Tester\ is\ an\ expansion\ of\ my\ V7\ object\ implementation\ class\ and\ \r\n\ client\ class\ to\ manage\ an\ array\ of\ data.\ It\ also\ finds\ the\ minimum,\ maximum,\ and\ averages\ \r\n\ of\ values.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @12/16\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
