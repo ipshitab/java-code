@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PineapplesTester
+comment0.text=\r\n\ Class\ PineapplesTester\ tests\ the\ calculation\ of\ the\ trajectory\ of\ a\ projectile\ \r\n\ based\ on\ launch\ angles\ and\ launch\ velocities\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @12/28\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

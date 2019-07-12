@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pineapples
+comment0.text=\r\n\ Class\ Pineapples\ calculates\ the\ trajectory\ of\ a\ projectile\ based\ on\ launch\ \r\n\ angles\ and\ launch\ velocities\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @12/28\r\n
+comment1.params=
+comment1.target=void\ Pineapples()
+comment2.params=speedMPH\ angleDegrees
+comment2.target=double\ calcDistance(double,\ double)
+numComments=3
