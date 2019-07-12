@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ElectionTesterV3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=myArray
+comment2.target=void\ printCandi(Candidate[])
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment3.params=myArray
+comment3.target=int\ totalVotes(Candidate[])
+comment4.params=myArray
+comment4.target=void\ printTable(Candidate[])
+comment5.params=itemList\ find\ replace
+comment5.target=void\ changeName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment6.params=itemList\ find\ replace
+comment6.target=void\ changeVotes(Candidate[],\ java.lang.String,\ int)
+comment7.params=itemList\ find\ replace\ voteReplace
+comment7.target=void\ changeBoth(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+numComments=8

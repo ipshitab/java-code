@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ score1\ score2\ score3\ score4\ score5
+comment1.target=Student(java.lang.String,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=quizIndex
+comment2.target=double\ getScore(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=quizIndex\ newScore
+comment3.target=void\ setScore(int,\ double)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

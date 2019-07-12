@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ElectionTesterV8
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=itemList\ location
+comment10.target=void\ delete(java.util.List,\ int)
+comment11.params=itemList\ find
+comment11.target=void\ deleteByName(java.util.List,\ java.lang.String)
+comment2.params=myArray
+comment2.target=void\ printCandi(java.util.List)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment3.params=myArray
+comment3.target=int\ totalVotes(java.util.List)
+comment4.params=myArray
+comment4.target=void\ printTable(java.util.List)
+comment5.params=itemList\ find\ replace
+comment5.target=void\ changeName(java.util.List,\ java.lang.String,\ java.lang.String)
+comment6.params=itemList\ find\ replace
+comment6.target=void\ changeVotes(java.util.List,\ java.lang.String,\ int)
+comment7.params=itemList\ find\ replace\ voteReplace
+comment7.target=void\ changeBoth(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment8.params=itemList\ location\ addN\ addS
+comment8.target=void\ insertItem1(java.util.List,\ int,\ java.lang.String,\ int)
+comment9.params=itemList\ find\ addN\ addS
+comment9.target=void\ insertItem2(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+numComments=12
