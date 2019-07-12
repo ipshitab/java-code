@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=itemList
+comment2.target=void\ printList(Contact[])
+comment3.params=source
+comment3.target=void\ sortName(Contact[])
+comment4.params=songs\ toFind
+comment4.target=int\ binarySearchName(Contact[],\ java.lang.String)
+comment5.params=source
+comment5.target=void\ sortRelation(Contact[])
+comment6.params=myContacts\ toFind
+comment6.target=int\ binarySearchRelation(Contact[],\ java.lang.String)
+comment7.params=myContacts\ toFind
+comment7.target=void\ findBday(Contact[],\ java.lang.String)
+comment8.params=myContacts\ toFind
+comment8.target=void\ findNum(Contact[],\ java.lang.String)
+comment9.params=myContacts\ toFind
+comment9.target=void\ findEmail(Contact[],\ java.lang.String)
+numComments=10

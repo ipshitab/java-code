@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment0.text=\r\n\ Class\ MusicTesterV3\ creates\ several\ sequential\ search\ methods\ and\ performs\ the\ \r\n\ searches\ using\ a\ collection\ of\ music\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @4/21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=songs
+comment2.target=void\ printMusic(MusicV3[])
+comment3.params=source
+comment3.target=void\ sortTitle(MusicV3[])
+comment4.params=songs\ toFind
+comment4.target=int\ binarySearchTitle(MusicV3[],\ java.lang.String)
+comment5.params=source
+comment5.target=void\ sortYear(MusicV3[])
+comment6.params=songs\ toFind
+comment6.target=int\ binarySearchYear(MusicV3[],\ int)
+comment7.params=source
+comment7.target=void\ sortArtist(MusicV3[])
+comment8.params=songs\ toFind
+comment8.target=int\ binarySearchArtist(MusicV3[],\ java.lang.String)
+numComments=9
