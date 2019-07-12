@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cylinder3
+comment0.text=\r\n\ This\ class\ defines\ a\ Cylinder\ object\ by\ extending\ a\ Circle.\r\n\r\n\ @author\ Ipshita\ Bhatnagar\r\n\ @version\ 2/17\r\n
+comment1.params=x\ y\ rad\ h
+comment1.target=Cylinder3(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

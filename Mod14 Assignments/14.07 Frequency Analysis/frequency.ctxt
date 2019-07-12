@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=frequency
+comment1.params=inputFile\ outputFile
+comment1.target=frequency(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ frequency\r\n
+comment2.params=
+comment2.target=void\ countFreq()
+comment3.params=
+comment3.target=void\ printFreq()
+comment4.params=
+comment4.target=void\ writeFile()
+numComments=5
