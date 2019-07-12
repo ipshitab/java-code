@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Data\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ scores
+comment1.target=Data(java.lang.String,\ java.lang.String,\ double[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Data\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=s
+comment11.target=java.lang.String\ getLetterGrade(double[])
+comment2.params=
+comment2.target=java.lang.String\ getlastName()
+comment3.params=n
+comment3.target=void\ setlastName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getfirstName()
+comment5.params=fN
+comment5.target=void\ setfirstName(java.lang.String)
+comment6.params=
+comment6.target=double[]\ getScores()
+comment7.params=s
+comment7.target=void\ setScores(double[])
+comment8.params=
+comment8.target=java.lang.String\ getGrade()
+comment9.params=g
+comment9.target=void\ setGrade(java.lang.String)
+numComments=12
