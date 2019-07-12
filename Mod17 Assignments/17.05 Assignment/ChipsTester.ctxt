@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ChipsTester
+comment0.text=\r\n\ Class\ ChipsTester\ keeps\ inventory\ of\ a\ product\ and\ prints\ it\ in\ various\ \r\n\ ways\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @4/21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ printChips(Chips[])
+comment3.params=source\ order
+comment3.target=void\ selectionproductNum(Chips[],\ int)
+comment4.params=source\ order
+comment4.target=Chips[]\ insertionName(Chips[],\ int)
+comment5.params=a\ low\ high\ order
+comment5.target=void\ mergeSort(Chips[],\ int,\ int,\ int)
+comment6.params=a\ low\ mid\ high\ order
+comment6.target=void\ merge(Chips[],\ int,\ int,\ int,\ int)
+numComments=7

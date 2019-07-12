@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MovieTester
+comment0.text=\r\n\ Class\ MovieTester\ lists\ movies\ and\ sorts\ them\ based\ on\ title,\ \r\n\ year\ created,\ or\ movie\ studio\ in\ ascending\ and\ descending\ order.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @4/20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ printMovies(Movie[])
+comment3.params=source\ order
+comment3.target=Movie[]\ insertionMovie(Movie[],\ int)
+comment4.params=source\ order
+comment4.target=Movie[]\ insertionYear(Movie[],\ int)
+comment5.params=source\ order
+comment5.target=Movie[]\ insertionStudio(Movie[],\ int)
+numComments=6

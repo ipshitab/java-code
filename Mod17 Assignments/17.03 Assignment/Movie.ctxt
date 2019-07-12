@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ Purpose\:\ This\ class\ states\ the\ constructor,\ variables,\ and\ methods\ for\ \r\n\ list\ of\ movies,\ year,\ and\ studio\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @4/20\r\n\r\n
+comment1.params=title\ year\ studio
+comment1.target=Movie(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStudio()
+comment5.params=studio
+comment5.target=void\ setStudio(java.lang.String)
+comment6.params=
+comment6.target=int\ getYear()
+comment7.params=year
+comment7.target=void\ setYear(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
