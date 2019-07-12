@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=English4
+comment0.text=\r\n\ Class\ English\ calls\ the\ Homework\ constructor\ and\ implements\ the\ abstract\ \r\n\ method\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @3/31\r\n
+comment1.params=
+comment1.target=English4()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ English\r\n
+comment2.params=numPages
+comment2.target=void\ set(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=pagesRead
+comment4.target=void\ doingHw(int)
+numComments=5

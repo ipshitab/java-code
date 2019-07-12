@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Homework4
+comment0.text=\r\n\ Class\ HomeworkTester\ prints\ a\ homework\ assignment\ using\ an\ abstract\ \r\n\ class.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @3/31\r\n
+comment1.params=
+comment1.target=Homework4()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Homework\r\n
+comment2.params=numPages
+comment2.target=void\ set(int)
+comment3.params=obj
+comment3.target=int\ compareTo(Homework4)
+comment4.params=
+comment4.target=int\ getnumPages()
+comment5.params=
+comment5.target=java.lang.String\ gettypeOfHw()
+comment6.params=pages
+comment6.target=void\ setnumPages(int)
+comment7.params=type
+comment7.target=void\ settypeOfHw(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
