@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RainForest
+comment0.text=\r\n\ class\ RainForest\ has\ an\ attribute\ for\ amount\ of\ rain\ fallen.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @2/12\r\n
+comment1.params=l\ w\ numT\ rain
+comment1.target=RainForest(int,\ int,\ int,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RainForest\r\n
+comment2.params=
+comment2.target=double\ amountOfRain()
+numComments=3

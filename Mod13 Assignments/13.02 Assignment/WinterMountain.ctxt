@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WinterMountain
+comment0.text=\r\n\ class\ WinterMountain\ has\ all\ the\ attributes\ of\ a\ mountain\ plus\ the\ temperature.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @2/12\r\n
+comment1.params=l\ w\ numM\ temp
+comment1.target=WinterMountain(int,\ int,\ int,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinterMountain\r\n
+comment2.params=
+comment2.target=double\ gettemperature()
+numComments=3

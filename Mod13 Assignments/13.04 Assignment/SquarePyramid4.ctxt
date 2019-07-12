@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SquarePyramid4
+comment0.text=\r\n\ This\ class\ defines\ a\ SquarePyramid\ object\ by\ extending\r\n\ Square\ and\ includes\ height\ and\ length.\r\n\ The\ toString\ method\ has\ been\ added.\r\n\r\n\ @author\ Ipshita\ Bhatnagar\r\n\ @version\ 2/20\r\n
+comment1.params=l\ h
+comment1.target=SquarePyramid4(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SquarePyramid4\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mountain
+comment0.text=\r\n\ class\ Mountain\ has\ an\ attribute\ for\ the\ number\ of\ mountains.\r\n\r\n\ @Ipshita\ Bhatnagar\r\n\ @2/12\r\n
+comment1.params=l\ w\ numM
+comment1.target=Mountain(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mountain\r\n
+comment2.params=
+comment2.target=int\ getnumMountains()
+numComments=3
